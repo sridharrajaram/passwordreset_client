@@ -12,9 +12,9 @@ function App() {
 
   return (
     <>
-      <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
+      <Navbar collapseOnSelect expand="lg" bg="primary" variant="light">
         <Container>
-          <Navbar.Brand href="/">Reset Password App</Navbar.Brand>
+          <Navbar.Brand href="/">PasswordReset</Navbar.Brand>
           <Navbar.Toggle aria-controls="responsive-navbar-nav" />
           <Navbar.Collapse id="responsive-navbar-nav">
             <Nav className="nav-links">
